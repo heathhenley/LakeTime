@@ -4,7 +4,9 @@ import Countdown from 'react-countdown';
 // On Complete render this 
 function Completionist() {
   return (
-    <span>You are good to go!</span>
+    <div className="finished">
+      <iframe src="https://giphy.com/embed/KHWAURFE2KcntpU5Et" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>It's Lake Time!</p>
+    </div>
   );
 }
 
@@ -15,7 +17,7 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
     return <Completionist />;
   } else {
     // Render a countdown
-    return <span>{days} days, {hours} hours, {minutes}, and {seconds} seconds</span>;
+    return <span>{days} days, {hours} hours, {minutes} minutes, and {seconds} seconds</span>;
   }
 };
 
