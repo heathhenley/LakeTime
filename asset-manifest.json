@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LakeTime/static/css/main.ed0380a5.css",
-    "main.js": "/LakeTime/static/js/main.11d20651.js",
-    "static/js/787.482db2ac.chunk.js": "/LakeTime/static/js/787.482db2ac.chunk.js",
-    "index.html": "/LakeTime/index.html",
-    "main.ed0380a5.css.map": "/LakeTime/static/css/main.ed0380a5.css.map",
-    "main.11d20651.js.map": "/LakeTime/static/js/main.11d20651.js.map",
-    "787.482db2ac.chunk.js.map": "/LakeTime/static/js/787.482db2ac.chunk.js.map"
+    "main.css": "/laketime/static/css/main.ed0380a5.css",
+    "main.js": "/laketime/static/js/main.80c3d5ab.js",
+    "static/js/787.482db2ac.chunk.js": "/laketime/static/js/787.482db2ac.chunk.js",
+    "index.html": "/laketime/index.html",
+    "main.ed0380a5.css.map": "/laketime/static/css/main.ed0380a5.css.map",
+    "main.80c3d5ab.js.map": "/laketime/static/js/main.80c3d5ab.js.map",
+    "787.482db2ac.chunk.js.map": "/laketime/static/js/787.482db2ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed0380a5.css",
-    "static/js/main.11d20651.js"
+    "static/js/main.80c3d5ab.js"
   ]
 }
