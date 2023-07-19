@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
       <Countdown
-        date={'2023-07-14T17:00:00'}
+        date={'2024-07-12T17:00:00'}
         renderer={renderer}/>
     </div>
   );
